@@ -4,7 +4,7 @@
 
 
 ## General Information
-This webpage meets accessibility standards.  When one views the source code, there are semantic HTML elements.  One will find that the elements follow a logical structure independent of styling and positioning.  The image and icon elements now have accessible alt attributes and everything is in sequential order.
+This webpage meets accessibility standards.  When one views the source code, there are semantic HTML elements (div changed to section, main, aside, etc.)  One will find that the elements follow a logical structure independent of styling and positioning.  The image and icon elements now have accessible alt attributes and everything is in sequential order.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -21,14 +21,11 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+HTML is organized with semantic elements by using header, section, main, aside. and footer.  CSS has been organized and consolidated into specific classes in order to avoid redundancy and save codespace.
 
 
 ## Usage
-Alt attributes have been added so people with disabilities have web accessibility.
-
+The links in the nav bar located on the top right of the webpage will jump down to that section of the page. Alt attributes have been added so people with disabilities have web accessibility.  Screen readers can read the description of images for people with visual disabilities.
 `write-your-code-here`
 
 
@@ -49,14 +46,13 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Many thanks to my instructor, Michael, our TAs. Nirav and Julius, and the tutor I worked with, Dane.
 
 
 ## Contact
-Created by Kristine Kim, email kristinehkim@gmail.com- feel free to contact me!
+Created by Kristine Kim, email kristinehkim@gmail.com feel free to contact me!
 
 
 <!-- Optional -->
