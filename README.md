@@ -35,6 +35,7 @@ Project is: _in progress_
 
 ## Acknowledgements
 - Many thanks to my instructor, Michael Pacheco, our TAs. Nirav Venkatesan and Julius Dorfman, and the tutor I worked with, Dane Shrewsbury.
+- I worked in study groups with Nhadea Lensky, Oswaldo Felix Thompson
 
 
 ## Contact
